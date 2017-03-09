@@ -1,0 +1,5 @@
+target 'Data_NULL_Demo' do
+
+pod 'JSONModel'
+
+end
